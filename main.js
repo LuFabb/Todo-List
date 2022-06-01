@@ -1,1 +1,2 @@
-console.log('intro a DOM desde main.js')
+const paragraph = document.getElementById('text')
+console.log(paragraph.innerText)

@@ -1,0 +1,1 @@
+In This repo i create a simple Todo List App manipulating the dom and using HTML and JS for build the app.
